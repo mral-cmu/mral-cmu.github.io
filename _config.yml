@@ -1,0 +1,6 @@
+title: "16-362: Mobile Robot Algorithms Laboratory"
+description: "Class website for Mobile Robot Algorithms Laboratory, Fall 2025"
+baseurl: ""
+url: "https://mral-cmu.github.io"
+markdown: kramdown
+theme: minima

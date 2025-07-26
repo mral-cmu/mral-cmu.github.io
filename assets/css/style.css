@@ -1,0 +1,32 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  background-color: #eef2f7; /* Updated background color for the body */
+  margin: 0;
+  padding: 0;
+}
+
+.navbar,
+.navbar.bg-light {
+  background-color: #123456 !important;  /* Replace with your color */
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #ffffff !important;  /* Ensure text is readable */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  border: 1px solid #aaa;
+  padding: 8px;
+  text-align: left;
+}
+
+table th {
+  background-color: #c4c4c4;
+  font-weight: bold;
+}
