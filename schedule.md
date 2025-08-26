@@ -5,6 +5,8 @@ title: Schedule
 
 # Class Schedule
 
+This schedule is preliminary and subject to change as the term evolves.
+
 <table>
   <thead>
     <tr>

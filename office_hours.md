@@ -5,8 +5,8 @@ permalink: /office_hours/
 ---
 
 # Office Hours
-Wennie Tabib: TBD
+Wennie Tabib: Thursday, 1700-1800ET, NSH 4513
 
-Mike Anoruo: TBD
+Mike Anoruo: Wednesday, 1700-1800ET, NSH 4513
 
-Lucky Kant Nayak: TBD
+Lucky Kant Nayak: Friday, 1700-1800ET, NSH 4513
