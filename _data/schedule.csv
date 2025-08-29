@@ -1,7 +1,7 @@
 date,lecture,assignment_released,assignment_due,instructor,slideurl,videourl,notesurl,assignmenturl
-Aug 26,Introduction & Mathematical Preliminaries,,,,https://drive.google.com/file/d/1mImX2hciiGDZPpGo3Boj6eAOXDxoyczz/view?usp=share_link,,,
-Aug 28,Quadrotor Modeling I,Assignment 1 released,,,,,,https://github.com/mral-cmu/assignment1-handout
-Sep 2,Quadrotor Modeling II,,,,,,,
+Aug 26,Introduction,,,,https://drive.google.com/file/d/1mImX2hciiGDZPpGo3Boj6eAOXDxoyczz/view?usp=share_link,,,
+Aug 28,Mathematical Preliminaries,Assignment 1 released,,,https://drive.google.com/file/d/1sqSI_Z4e6_I1F-2rXDvdQpWYyO98jD19/view?usp=sharing,https://drive.google.com/file/d/1xikZDdfy7ERfzYDOGKakLTDsQI5CCQSU/view?usp=share_link,,https://github.com/mral-cmu/assignment1-handout
+Sep 2,Quadrotor Modeling,,,,,,,
 Sep 4,Quadrotor Control I,,,,,,,
 Sep 9,Quadrotor Control II,,,,,,,
 Sep 11,Quadrotor Control III,,,,,,,
