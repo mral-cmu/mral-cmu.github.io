@@ -1,8 +1,8 @@
 date,lecture,assignment_released,assignment_due,instructor,slideurl,videourl,notesurl,assignmenturl
 Aug 26,Introduction,,,,https://drive.google.com/file/d/1mImX2hciiGDZPpGo3Boj6eAOXDxoyczz/view?usp=share_link,,,
 Aug 28,Mathematical Preliminaries,Assignment 1 released,,,https://drive.google.com/file/d/1sqSI_Z4e6_I1F-2rXDvdQpWYyO98jD19/view?usp=sharing,https://drive.google.com/file/d/1xikZDdfy7ERfzYDOGKakLTDsQI5CCQSU/view?usp=share_link,,https://github.com/mral-cmu/assignment1-handout
-Sep 2,Quadrotor Modeling,,,,https://drive.google.com/file/d/10glH-BXS-uLu3LRcQo2W62duZJySVM0W/view?usp=sharing,,,
-Sep 4,Quadrotor Control I,,,,https://drive.google.com/file/d/1tGxXvEz0J5yEHw6J96u5-BozbnhK_WgR/view?usp=sharing,,,
+Sep 2,Quadrotor Modeling,,,,https://drive.google.com/file/d/10glH-BXS-uLu3LRcQo2W62duZJySVM0W/view?usp=sharing,https://drive.google.com/file/d/1dVjvhvZnzuJgpgB0ZXh3iBfVjTvkRQah/view?usp=sharing,,
+Sep 4,Quadrotor Control I,,,,https://drive.google.com/file/d/1tGxXvEz0J5yEHw6J96u5-BozbnhK_WgR/view?usp=sharing,https://drive.google.com/file/d/17oTFhJ8MLJlKJbXo8M-gjQA9ySGqkfwG/view?usp=sharing,,
 Sep 9,Quadrotor Control II,,,,,,,
 Sep 11,Quadrotor Control III,,,,,,,
 Sep 16,Trajectory-based Control,,,,,,,
