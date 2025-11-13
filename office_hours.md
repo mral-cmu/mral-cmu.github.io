@@ -5,7 +5,7 @@ permalink: /office_hours/
 ---
 
 # Office Hours
-Wennie Tabib: Thursday, 1700-1800ET, NSH 4513
+Wennie Tabib: Thursday, 1700-1800ET, NSH 2201E
 
 Mike Anoruo: Wednesday, 1700-1800ET, NSH 4513
 
