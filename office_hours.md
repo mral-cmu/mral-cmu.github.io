@@ -5,8 +5,5 @@ permalink: /office_hours/
 ---
 
 # Office Hours
-Wennie Tabib: Thursday, 1700-1800ET, NSH 2201E
-
-Mike Anoruo: Wednesday, 1700-1800ET, NSH 4513
-
-Lucky Kant Nayak: Friday, 1700-1800ET, NSH 4513
+Office hours are by appointment. Please reach out to us via Piazza to
+schedule an appointment.
