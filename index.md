@@ -10,7 +10,7 @@ Hello students and visitors! This is the official webpage for
 
 - **Class Dates and Times**: Tuesdays and Thursdays 0930-1050 ET in NSH 3002
 - **Instructor**: Wennie Tabib
-- **Office**: LL 05, Building Collaborative Innovation Commons
+- **Office**: NSH 2201E
 - **Contact**: wtabib (at) cmu.edu
 
 This lecture-based course comprises four modules that present both
@@ -53,7 +53,7 @@ course will be assessed according to:
   * assignment2: 25% (Mapping and State Estimation)
   * assignment3: 25% (Quadrotor Planning)
 * 25% Project
-  * 10%: form groups of 2-3 and present your project proposal on Oct. 23 or Oct. 30
+  * 10%: form groups of 2-3 and present your project proposal on Oct. 22 or Oct. 27
     * The project proposal presentations should include:
   	  * Motivation
 	  * Related work
@@ -61,12 +61,12 @@ course will be assessed according to:
 	  * How you will evaluate your approach
 	  * Timeline
 	  * Anticipated results
-  * 15%: final project presentation (Dec. 2, Dec. 4)
+  * 15%: final project presentation (Dec. 1, Dec. 3)
 
 # Homework and Late Day Policy
 Three mandatory assignments will be provided during the semester. All
 homework will be distributed using GitHub and collected using
-AutoLab. AutoLab will enable auto-grading and feedback for students to
+Gradescope. Gradescope will enable auto-grading and feedback for students to
 help them finalize submissions. Grades are available a few minutes after
 uploading the assignment. You may submit as many times as you'd like (i.e.,
 unlimited number of submissions are allowed).
@@ -79,6 +79,13 @@ for 12 late days is 6%). If you use all your late days, and submit
 late you will be penalized by 25 points per day. Each assignment is
 worth 100 points so this means using all your late days and submitting
 two days late will result in a maximum score of 50 points (or 50%).
+
+In prior semesters, we used AutoLab to manage late days. However, the
+university has shifted to Gradescope, which does not manage late
+days. Unfortunately, that means the burden is on the student to keep
+track of late days used so that you do not exceed the 12 allotted. If
+you have questions about how late days are calculated, please contact
+the course staff.
 
 This late day policy exists to help students avoid potential
 situations where multiple complex assignments from different classes
@@ -95,7 +102,7 @@ days may not be used on the project.**
 # Course Staff
 Instructor: Wennie Tabib
 
-Teaching Assistants: Mike Anoruo and Lucky Kant Nayak
+Teaching Assistants: Nishanth Bobbili and Lucky Kant Nayak
 
 ## Previous Course Offerings
 <p><a href="./previous_offerings/2025fall/index.html">Mobile Robot Algorithms Laboratory</a> by Wennie Tabib, Fall 2025</p>

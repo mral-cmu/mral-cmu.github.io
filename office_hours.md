@@ -5,5 +5,9 @@ permalink: /office_hours/
 ---
 
 # Office Hours
-Office hours are by appointment. Please reach out to us via Piazza to
-schedule an appointment.
+
+Wennie, Tuesdays at 1700-1800, NSH 2201E
+
+Lucky, TBD, TBD
+
+Nishanth, TBD, TBD
