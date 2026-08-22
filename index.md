@@ -40,7 +40,8 @@ equations will benefit the student throughout the semester.
 # Learning Resources
 There is no textbook required for this course. Slides and additional
 references for further reading will be provided with each lecture on
-the course website.
+the course website. Lectures may be recorded either before or during
+class to enable students to view the material outside of class.
 
 # Assessments
 This course implements software for mobile robots. Consequently, the
