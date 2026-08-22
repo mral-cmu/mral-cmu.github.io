@@ -98,6 +98,5 @@ Instructor: Wennie Tabib
 Teaching Assistants: Mike Anoruo and Lucky Kant Nayak
 
 ## Previous Course Offerings
-<p><a href="./previous_offerings/2025fall/index.html">Mobile Robot Algorithms Laboratory</a> by Wennie Tabib, Fall 2025</p>
 <p><a href="./previous_offerings/2024fall/index.html">Mobile Robot Algorithms Laboratory</a> by Wennie Tabib, Fall 2024</p>
 <p><a href="./previous_offerings/2023fall/index.html">Mobile Robot Algorithms Laboratory</a> by Wennie Tabib and Kshitij Goel, Fall 2023</p>
