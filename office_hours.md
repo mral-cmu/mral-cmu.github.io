@@ -8,6 +8,6 @@ permalink: /office_hours/
 
 Wennie, Thursdays at 1700-1800, NSH 2201E
 
-Lucky, TBD, TBD
+Lucky, 1700-1800, NSH 2101
 
-Nishanth, TBD, TBD
+Nishanth, 1600-1700, NSH 2201G
