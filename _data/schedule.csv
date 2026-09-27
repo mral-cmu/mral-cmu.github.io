@@ -5,10 +5,10 @@ Sep 1,Quadrotor Modeling,,,,https://drive.google.com/file/d/1yegHODxybiyrq-lHsl-
 Sep 3,Quadrotor Control I,,,,https://drive.google.com/file/d/1RW4ILZDHjthiNwcf7LmFBpsu3JgE9UHx/view?usp=share_link,https://drive.google.com/file/d/1ZvsYLp4-aBC7NoV258xiM3vJREGGT1Mn/view?usp=share_link,,
 Sep 8,Quadrotor Control II,,,,,https://drive.google.com/file/d/1Wm-K7-wONnfaLdcvZw9ibNh3-Te5f1tT/view?usp=share_link,https://drive.google.com/file/d/1bTkIOQdTM9kLylERwEF3IyVqM-neh-xn/view?usp=share_link,
 Sep 10,Quadrotor Control III,,,,,https://drive.google.com/file/d/1Wm-K7-wONnfaLdcvZw9ibNh3-Te5f1tT/view?usp=share_link,https://drive.google.com/file/d/1bTkIOQdTM9kLylERwEF3IyVqM-neh-xn/view?usp=share_link,
-Sep 15,Trajectory-based Control,,,,https://drive.google.com/file/d/1qN64vl71knZhkEBJ7YXS6KnDO6Du68jQ/view?usp=share_link,,,
-Sep 17,Introduction to Mapping and Localization,Assignment 2 released,Assignment 1 due,,https://drive.google.com/file/d/1beIXQnfob_XiooUyOSSzNvAV4-xxVBYR/view?usp=share_link,,,https://github.com/mral-cmu/assignment2-handout
-Sep 22,Bayes Filter,,,,https://drive.google.com/file/d/1WKJZRcFQ1HoSfU6DrrmZNAp-MeG5MoU9/view?usp=share_link,,,
-Sep 24,Occupancy Grid Maps,,,,https://drive.google.com/file/d/1hcAefBC8jaQQaTYTEOHIaUlBDJ_9r_jj/view?usp=share_link,,https://drive.google.com/file/d/1OacjOg2xsK7apdNpj7S8Svz1J7B85p_G/view?usp=share_link,
+Sep 15,Trajectory-based Control,,,,https://drive.google.com/file/d/1qN64vl71knZhkEBJ7YXS6KnDO6Du68jQ/view?usp=share_link,https://drive.google.com/file/d/1Jyu_Xw_KWk_qEGp7MKJIvILCLZ9LOpNM/view?usp=share_link,,
+Sep 17,Introduction to Mapping and Localization,Assignment 2 released,Assignment 1 due,,https://drive.google.com/file/d/1beIXQnfob_XiooUyOSSzNvAV4-xxVBYR/view?usp=share_link,https://drive.google.com/file/d/1q87UiD0447u_e_fVe_TVi2aOXvvIkaXa/view?usp=share_link,,https://github.com/mral-cmu/assignment2-handout
+Sep 22,Bayes Filter,,,,https://drive.google.com/file/d/1WKJZRcFQ1HoSfU6DrrmZNAp-MeG5MoU9/view?usp=share_link,https://drive.google.com/file/d/1wDf5URo3bCAi9ip8Xy_s2PZYpkBl1mjt/view?usp=share_link,,
+Sep 24,Occupancy Grid Maps,,,,https://drive.google.com/file/d/1hcAefBC8jaQQaTYTEOHIaUlBDJ_9r_jj/view?usp=share_link,https://drive.google.com/file/d/1RR3_ekzg49lCftwb-Tn2fGmWing59S2B/view?usp=share_link,https://drive.google.com/file/d/1OacjOg2xsK7apdNpj7S8Svz1J7B85p_G/view?usp=share_link,
 Sep 29,Localization using Bayes Filtering,,,,,,,
 Oct 1,"Particle Filter, EKF-SLAM",,,,,,,
 Oct 6,3D Mapping,,,,,,,
